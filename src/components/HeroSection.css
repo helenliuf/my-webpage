@@ -1,0 +1,11 @@
+.hero-container {
+    background: url('/src/images/galaxy.jpg') center center/cover no-repeat;
+    /*background: #fdf6f6;*/
+    height: 100vh;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    box-shadow: inset 0 0 0 1000px rgba(0,0,0,0.2);
+    object-fit: contain;
+}
